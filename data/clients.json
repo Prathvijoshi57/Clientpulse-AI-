@@ -1,0 +1,41 @@
+{
+  "c_apex": {
+    "id": "c_apex",
+    "name": "Sarah Chen",
+    "company": "Apex Digital Labs",
+    "industry": "B2B SaaS / Growth",
+    "role": "VP of Growth & Marketing",
+    "status": "Active Client",
+    "monthly_value": "₹1,50,000/mo",
+    "avatar_url": "/src/assets/images/avatar_sarah_chen_1794039525628.jpg",
+    "created_at": "2026-09-12T10:00:00Z",
+    "health_score": 94,
+    "notes": "Hyper-focused on customer acquisition cost and pipeline velocity."
+  },
+  "c_quantum": {
+    "id": "c_quantum",
+    "name": "Marcus Vance",
+    "company": "Quantum Retail Tech",
+    "industry": "Omnichannel E-commerce",
+    "role": "Founder & CEO",
+    "status": "Proposal Review",
+    "monthly_value": "₹3,20,000/mo",
+    "avatar_url": "/src/assets/images/avatar_marcus_vance_1794039526648.jpg",
+    "created_at": "2026-10-01T14:30:00Z",
+    "health_score": 78,
+    "notes": "Evaluating 3 agencies. Highly receptive to social proof in retail tech."
+  },
+  "c_lumina": {
+    "id": "c_lumina",
+    "name": "Elena Rostova",
+    "company": "Lumina Health Systems",
+    "industry": "MedTech / Health Diagnostics",
+    "role": "Director of Commercial Strategy",
+    "status": "Onboarding",
+    "monthly_value": "₹2,10,000/mo",
+    "avatar_url": "/src/assets/images/avatar_elena_rostova_1794039526396.jpg",
+    "created_at": "2026-10-18T09:15:00Z",
+    "health_score": 88,
+    "notes": "HIPAA compliance and clinical accuracy are non-negotiable prerequisites."
+  }
+}

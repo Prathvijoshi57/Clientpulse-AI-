@@ -1,0 +1,85 @@
+{
+  "bank_id": "bank_clientpulse_c_apex",
+  "client_id": "c_apex",
+  "client_name": "Sarah Chen",
+  "world_facts": [
+    {
+      "id": "f_apex_1",
+      "fact": "Target blended CAC is ₹4,200 down from historical ₹5,800",
+      "category": "budget",
+      "confidence": 0.98,
+      "created_at": "2026-10-12T10:00:00Z"
+    },
+    {
+      "id": "f_apex_2",
+      "fact": "Q4 revenue objective set to ₹1.8 Cr ARR",
+      "category": "budget",
+      "confidence": 0.96,
+      "created_at": "2026-10-12T10:00:00Z"
+    },
+    {
+      "id": "f_apex_3",
+      "fact": "Reallocating 30% of paid search into LinkedIn ABM targeting VP titles",
+      "category": "preference",
+      "confidence": 0.94,
+      "created_at": "2026-10-14T15:30:00Z"
+    },
+    {
+      "id": "f_apex_4",
+      "fact": "Uses HubSpot CRM integrated with Stripe & Razorpay Billing",
+      "category": "tech_stack",
+      "confidence": 0.92,
+      "created_at": "2026-10-14T15:30:00Z"
+    }
+  ],
+  "experiences": [
+    {
+      "id": "exp_apex_1",
+      "channel": "video_meeting",
+      "summary": "Q4 Strategy Alignment Call: Targeting ₹1.8 Cr ARR by end of fiscal year.",
+      "raw_content": "Sarah stated their blended CAC target is ₹4,200. Current CAC is ₹5,800 on paid search. Wants to shift 30% of budget into LinkedIn Thought Leadership and account-based SDR enablement.",
+      "sentiment": "positive",
+      "timestamp": "2026-10-14T15:30:00Z",
+      "key_quotes": [
+        "We cannot afford vanity clicks; every lead must have an enterprise corporate domain."
+      ]
+    }
+  ],
+  "observations": [
+    {
+      "id": "obs_apex_1",
+      "belief": "Extremely skeptical of vanity traffic metrics and top-of-funnel fluff",
+      "evidence_ids": [
+        "exp_apex_1"
+      ],
+      "synthesized_at": "2026-10-14T16:00:00Z",
+      "impact_level": "high",
+      "category": "objection"
+    },
+    {
+      "id": "obs_apex_2",
+      "belief": "Responds immediately when proposals include direct CAC and pipeline velocity impact",
+      "evidence_ids": [
+        "exp_apex_1"
+      ],
+      "synthesized_at": "2026-10-14T16:00:00Z",
+      "impact_level": "high",
+      "category": "buying_signal"
+    }
+  ],
+  "mental_model": {
+    "client_id": "c_apex",
+    "persona": "High-Velocity Growth Leader",
+    "core_motivations": [
+      "Predictable pipeline ARR",
+      "Clear CAC payback period < 6 months"
+    ],
+    "friction_points": [
+      "Wasteful ad spend",
+      "Slow turnaround time"
+    ],
+    "preferred_communication": "Concise bullet points with hard metrics",
+    "decision_velocity": "rapid",
+    "last_updated": "2026-10-14T16:00:00Z"
+  }
+}

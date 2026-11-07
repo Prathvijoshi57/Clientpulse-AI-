@@ -1,0 +1,6 @@
+{
+  "name": "CLIENTPULSE AI",
+  "description": "AI-powered client intelligence platform and persistent memory engine for small businesses and digital marketing agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
